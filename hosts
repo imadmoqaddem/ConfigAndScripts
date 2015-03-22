@@ -1,0 +1,48 @@
+127.0.0.1	localhost
+127.0.0.1	imad
+127.0.0.1	imad.esynergy
+127.0.0.1	imad.esynergy_dev
+127.0.0.1	imad.mailjet
+127.0.0.1	dev.letsbro
+127.0.0.1	imad.gitwebdeployer
+127.0.0.1	imad.streaming
+127.0.0.1	imad.imkdm
+
+92.222.161.39	lily
+92.222.161.39	letsbro
+94.23.17.98	lendix_site
+37.187.183.214	mkdm
+
+#### GOP ####
+
+172.20.20.56	e-synergy_r7.groupeonepoint.com
+172.20.20.56	e-synergy_preprod.groupeonepoint.com
+172.20.20.56	e-synergy.groupeonepoint.com
+
+172.20.21.12	vgop_owncloud
+172.20.20.56	vgop_esynergy
+172.20.20.57	vgop_git
+192.168.0.46	vgop_site
+192.168.0.3	vgop_front
+192.168.0.176	glpi
+
+172.20.21.14	vgop_blog
+172.20.21.15	vgop_blog_r7
+
+172.20.41.1	vgop101
+172.20.41.1	vgop_front_pub
+
+172.20.42.1	vgop102
+172.20.42.1	vgop_front_priv
+
+172.20.43.2	vgop103
+172.20.43.2	vgop_front_proj
+
+172.20.41.3	vgop104
+172.20.41.3	vgop_dns
+
+
+# The following lines are desirable for IPv6 capable hosts
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
